@@ -44,6 +44,7 @@ def main():
 
     print(location1.afficher())
     print(location1.calcul_prix())
+    print("bye bye petit papillon")
 
 
 if __name__ == "__main__":
